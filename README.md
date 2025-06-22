@@ -1,3 +1,4 @@
 # C
 Resolução de exercícios em C
-[Exercícios de Funções.pdf](https://github.com/user-attachments/files/20853298/Exercicios.de.Funcoes.pdf)
+![image](https://github.com/user-attachments/assets/c4c42e9d-f585-401b-8019-0dcdfecb2778)
+
